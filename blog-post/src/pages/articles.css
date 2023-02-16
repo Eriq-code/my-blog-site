@@ -1,0 +1,17 @@
+
+.body{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.link-items {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+.paragraph {
+     border-bottom: 1px solid black;
+     padding-bottom: 20px;
+     font-size: 14px;
+}
